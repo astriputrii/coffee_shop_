@@ -117,6 +117,7 @@ class _HomeScreenState extends State<HomeScreen>
                     Tab(text: "Cold Coffee"),
                     Tab(text: "Cappuccino"),
                     Tab(text: "Americano"),
+                    Tab(text: "Bajigur"),
                   ]),
               SizedBox(height: 10),
               Center(

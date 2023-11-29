@@ -10,6 +10,7 @@ class ItemsWidget extends StatelessWidget {
     'Espresso',
     'Americano',
     'Cold Coffee',
+    'Bajigur',
   ];
 
   @override
